@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.city-card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.city-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.city-card h2 {
+  margin-top: 0;
+}
+
+.city-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.city-card li {
+  margin: 10px 0;
+}
